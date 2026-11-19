@@ -1,6 +1,5 @@
 # 🎯 YOLO26n ve ByteTrack ile Gerçek Zamanlı İHA (UAV) Tespit ve Takip Rehberi
 
-**Hazırlayan:** Eda Nur YASDIMAN (`IHASresearch`)  
 **Dosya Adı:** `26_YOLO26n_IHA_Tespit_ve_Takip_Rehberi.md`  
 **İlgili Modüller:** `22` (YOLO26n + ByteTrack Python Uygulaması), `23` (`YOLO26n` Fine-Tuned Model), `24` (Test Videosu 1), `25` (Eğitim/Doğrulama Videosu 2)
 
