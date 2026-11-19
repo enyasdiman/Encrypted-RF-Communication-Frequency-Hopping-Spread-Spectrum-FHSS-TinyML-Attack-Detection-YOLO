@@ -1,7 +1,5 @@
 # 📡 Kriptolu RF Haberleşme, Frekans Atlama (FHSS), TinyML Saldırı Tespiti ve YOLO İHA Tespiti Proje Raporu
 
-**Hazırlayan:** Eda Nur YASDIMAN  
-**Proje Grubu:** IHASresearch  
 **Donanım & Teknolojiler:** Arduino Mega 2560 / Uno, ESP32 & ESP8266, nRF24L01+ (2.4 GHz ISM Bandı), AES-128 & AES-256 (ECB) Kriptografi, FHSS (Frequency Hopping Spread Spectrum), IEEE 802.11 Promiscuous Sniffer, Gömülü TinyML (MLP `10→16→8→1`), Ultralytics YOLO26n & ByteTrack Görüntü İşleme
 
 ---
